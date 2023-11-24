@@ -1,5 +1,5 @@
 import unittest
-import TP1
+import main as TP1
 
 class TestNode(unittest.TestCase):
 
